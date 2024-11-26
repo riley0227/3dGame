@@ -2,15 +2,19 @@
 
 Authors: Will Blodget, Sam James, Jessica Chammas, Riley Thompson, Jackson Keus, Nathan Maayah
 
+### Basic Gameplay:
+In this game, you will go through levels of increasing intensity and fight enemies. You can fight with your fists or buy more damage-inducing weapons at the shop. You have to defeat all of the enemies in the room in order to complete the level and a door to the next level will appear that you must go through to move on.
+
 ### Aspects:
 - Shop for new combat tools
 - Go through levels with an increasing # of enemies
 - Door to the next room spawns when you kill all the enemies
 - Backpack increases inventory space (can purchase unlimited)
-- Can buy more heart capacity
+- Can buy more heart capacity (or sometimes appear in levels)
 - Capped at 10 enemies (10 levels)
 - Room 0 - used for testing, can pick up items to test (might delete or turn into spawning room)
 - Every 4 rooms you go to the shop between level spawning
+- You can hit enemies out of the room (no ceiling) for fun with certain more intense weapons
 
 ### People Split So Far:
 - Setup/Room/Levels and character - Sam
