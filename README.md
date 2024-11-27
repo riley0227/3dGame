@@ -23,7 +23,7 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Punching/player movement/player cam - Nathan
 - Enemy spawner/door spawner - Jackson 
 - Weapon prefabs/weapon holder - Riley
-(we did most of this pair-programming style so we were all involved in ideas while one person coded each)
+- (we did most of this pair-programming style so we were all involved in ideas while one person coded each)
 
 ### Issues Encountered:
 - Aspect ratios
