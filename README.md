@@ -35,3 +35,7 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Menu screen (starting room and/or screen)
 - Send to a starting room when you die (nothing happens on death at the moment)
 - Maybe more items/weapons/enemies??
+- Sound effects
+
+### Demo
+[Watch the demo on YouTube for our halfway point](https://www.youtube.com/watch?v=B6HMQzisbeg)
