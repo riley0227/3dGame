@@ -12,15 +12,16 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Backpack increases inventory space (can purchase unlimited)
 - Can buy more heart capacity (or sometimes appear in levels)
 - Capped at 10 enemies (10 levels)
+- Stamina - you can sprint, but then can get fatigued quicker (top right bar)
 - Room 0 - used for testing, can pick up items to test (might delete or turn into spawning room)
 - Every 4 rooms you go to the shop between level spawning
 - You can hit enemies out of the room (no ceiling) for fun with certain more intense weapons
 - Controls page that tells you how to play
 
 ### People Split So Far:
-- Setup, Room, Levels, and character - Sam
+- Setup, Room, Levels, character, & lighting - Sam
 - Shop canvas & manager - Jessica
-- Inventory/Backpack/player hearts&healing/collectables & lots of ideas! - Will
+- Inventory/Backpack/player hearts&healing/collectables, menu/controls & lots of ideas! - Will
 - Punching/player movement/player cam - Nathan
 - Enemy spawner/door spawner/death spawner - Jackson 
 - Weapon prefabs/weapon holder/sound effects - Riley
