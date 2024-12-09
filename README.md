@@ -15,14 +15,15 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Room 0 - used for testing, can pick up items to test (might delete or turn into spawning room)
 - Every 4 rooms you go to the shop between level spawning
 - You can hit enemies out of the room (no ceiling) for fun with certain more intense weapons
+- Controls page that tells you how to play
 
 ### People Split So Far:
-- Setup/Room/Levels and character - Sam
+- Setup, Room, Levels, and character - Sam
 - Shop canvas & manager - Jessica
-- Inventory/Backpack/player hearts&healing/collectables & extra pizazz - Will
+- Inventory/Backpack/player hearts&healing/collectables & lots of ideas! - Will
 - Punching/player movement/player cam - Nathan
-- Enemy spawner/door spawner - Jackson 
-- Weapon prefabs/weapon holder - Riley
+- Enemy spawner/door spawner/death spawner - Jackson 
+- Weapon prefabs/weapon holder/sound effects - Riley
 - (we did most of this pair-programming style so we were all involved in ideas while one person coded each)
 
 ### Issues Encountered:
@@ -30,6 +31,7 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Weapon animations (gif -> sprite sheet)
 - Shop button navigation
 - Enemies spawning outside of the map
+- inventory is hard
 
 ### Working on:
 - Will customize rooms/levels later on (if we have time)
