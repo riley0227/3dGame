@@ -16,7 +16,7 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Room 0 - used for testing, can pick up items to test (turn into spawning room)
 - Can play in "creative mode" where all weapons and additives are available in room 0
       - or play actually where you start with nothing and have to buy everything at the shop
-- Every 4 rooms you go to the shop between level spawning
+- Every 4 rooms you go to the shop between level spawning (can only buy 1 of each weapon)
 - You can hit enemies out of the room (no ceiling) for fun with certain more intense weapons
 - Controls page that tells you how to play
 - Torches and doors are point lights (also have the sun)
