@@ -11,12 +11,15 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Door to the next room spawns when you kill all the enemies
 - Backpack increases inventory space (can purchase unlimited)
 - Can buy more heart capacity (or sometimes appear in levels)
-- Capped at 10 enemies (10 levels)
+- no cap of levels, though it gets very hard very quick (used to have a 10 level max)
 - Stamina - you can sprint, but then can get fatigued quicker (top right bar)
-- Room 0 - used for testing, can pick up items to test (might delete or turn into spawning room)
+- Room 0 - used for testing, can pick up items to test (turn into spawning room)
+- Can play in "creative mode" where all weapons and additives are available in room 0
+      - or play actually where you start with nothing and have to buy everything at the shop
 - Every 4 rooms you go to the shop between level spawning
 - You can hit enemies out of the room (no ceiling) for fun with certain more intense weapons
 - Controls page that tells you how to play
+- Torches and doors are point lights (also have the sun)
 
 ### People Split So Far:
 - Setup, Room, Levels, character, & lighting - Sam
@@ -33,13 +36,6 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Shop button navigation
 - Enemies spawning outside of the map
 - inventory is hard
-
-### Working on:
-- Will customize rooms/levels later on (if we have time)
-- Menu screen (starting room and/or screen)
-- Send to a starting room when you die (nothing happens on death at the moment)
-- Maybe more items/weapons/enemies??
-- Sound effects
 
 ### Demo
 [Watch the demo on YouTube for our halfway point](https://www.youtube.com/watch?v=B6HMQzisbeg)
