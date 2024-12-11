@@ -21,10 +21,10 @@ In this game, you will go through levels of increasing intensity and fight enemi
 - Controls page that tells you how to play
 - Torches and doors are point lights (also have the sun)
 
-### People Split So Far:
+### People Split:
 - Setup, Room, Levels, character, & lighting - Sam
 - Shop canvas & manager - Jessica
-- Inventory/Backpack/player hearts&healing/collectables, menu/controls & lots of ideas! - Will
+- Inventory/Backpack/player hearts&healing/collectables, menu/controls & lots of ideas/pizzazz! - Will
 - Punching/player movement/player cam - Nathan
 - Enemy spawner/door spawner/death spawner - Jackson 
 - Weapon prefabs/weapon holder/sound effects - Riley
