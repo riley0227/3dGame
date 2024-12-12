@@ -39,5 +39,6 @@ In this game, you will go through levels of increasing intensity and fight enemi
 
 ### Demo
 [Watch the demo on YouTube for our halfway point](https://www.youtube.com/watch?v=B6HMQzisbeg)
+
 [And this one for our final version](https://www.youtube.com/watch?v=WW6Q0j6nqtY)
 
